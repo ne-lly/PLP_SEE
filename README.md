@@ -7,6 +7,7 @@ Handles invalid input and division by zero
 Usage
 1. Clone the repository
 2. git clone https://github.com/ne-lly/PLP_SEE.git
+3. 
 Run
 bash
 Copy
